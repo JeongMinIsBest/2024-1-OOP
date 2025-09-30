@@ -30,8 +30,8 @@
 <br/>
 
 ### 5번 — 클라이언트-서버 시간 통신 프로그램
-- `TimeServer`: 서버 소켓을 열고 현재 시간을 클라이언트에 전송
-- `TimeClient`: 서버에 접속하여 서버가 전달한 시간을 출력
+- `TimeServer` : 서버 소켓을 열고 현재 시간을 클라이언트에 전송
+- `TimeClient` : 서버에 접속하여 서버가 전달한 시간을 출력
 - `Socket`, `ServerSocket`, `BufferedReader`, `PrintWriter` 활용
 <br/>
 <br/>
