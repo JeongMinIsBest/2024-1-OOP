@@ -43,14 +43,13 @@ The repository consists of **five projects**, each demonstrating practical appli
 <br/>
 
 ## ✅ How to Run
-
 All source code files are located in the `src` directory and can be executed in a standard JDK environment.
-
+  
 1. **Compile**
 ```
 javac FileName.java
 ```
-
+  
 2. **Run**
 ```
 java ClassName
